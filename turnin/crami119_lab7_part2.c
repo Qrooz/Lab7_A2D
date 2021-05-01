@@ -10,6 +10,13 @@
  *	code, is my own original work.
  *
  *	Demo Link: Youtube URL> https://www.youtube.com/watch?v=w2UW7P6Jjio
+ *
+ *
+ *
+ *
+ *	HOW I GOT MAXIMUM VALUE FOR EXERCISE 3 and 4:
+ *	For max value I copied down the number representation shown on the LEDs when the light intensity was greatest and converted that binary value to decimal in order to determine its value. Same
+ *	thing for minimum value by looking at the LEDs while all lights were off. 
  */
 #include <avr/io.h>
 #ifdef _SIMULATE_
